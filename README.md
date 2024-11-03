@@ -41,5 +41,5 @@ A parametrization of implied volatility surface and its dynamics is crucial when
 
 3. Breeden, D.T., Litzenberger, R.H. (1978). Prices of state-contingent claims implicit in option prices, *Journal of Business*, 51: 621-651.
 
-4. 1. Jäckel, Peter. Monte Carlo methods in finance. (2002).
+4. Jäckel, Peter. Monte Carlo methods in finance. (2002).
 

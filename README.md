@@ -30,7 +30,7 @@ An FX forward is an important ingredient for pricing FX derivatives. We show how
 
 **Seminar 7.ipynb**
 
-A parametrization of implied volatility surface and its dynamics is crucial when managing exotic risks. We show a well-knwon SABR model can be used for it. 
+A parametrization of implied volatility surface and its dynamics is crucial when managing exotic risks. We show a well-knwon SABR model which can be used for this purposes. 
 
 
 ## References

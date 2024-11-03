@@ -40,8 +40,12 @@ A parametrization of implied volatility surface and its dynamics is crucial when
 2. Hagan, Kumar, Lesniewski, Woodward, Managing smile risk. (2002).
 
 3. Breeden, D.T., Litzenberger, R.H. (1978). Prices of state-contingent claims implicit in option prices, *Journal of Business*, 51: 621-651.
+   
+4. Turnbull, Stuart M. and Lee Macdonald Wakeman. A Quick Algorithm for Pricing European Average Options. *Journal of Financial and Quantitative Analysis* 26 (1991): 377 - 389.
 
-4. Jäckel, Peter. Monte Carlo methods in finance. (2002).
+5. Buehler, Hans, Volatility and Dividends - Volatility Modelling with Cash Dividends and Simple Credit Risk (February 2, 2010).
+
+6. Jäckel, Peter. Monte Carlo methods in finance. (2002).
 
 
 ## Setup

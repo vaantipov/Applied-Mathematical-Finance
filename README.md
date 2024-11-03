@@ -43,3 +43,20 @@ A parametrization of implied volatility surface and its dynamics is crucial when
 
 4. Jäckel, Peter. Monte Carlo methods in finance. (2002).
 
+
+## Setup
+The setup script creates a virtual environment with installed requirements.
+See the manuals for detailed information regarding the workspace setup.
+
+### Windows
+Run `setup\setup_windows.cmd` or run
+```powershell
+.\setup\setup_windows.cmd
+```
+
+### macOS
+Run:
+```shell
+chmod +x setup/setup_macos.sh && ./setup/setup_macos.sh
+```
+
